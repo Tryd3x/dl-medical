@@ -1,3 +1,5 @@
 env/
 env-cuda/
 *.ipynb_checkpoints
+datasets/pneumonia
+artifacts/pneumonia
